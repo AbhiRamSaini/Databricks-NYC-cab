@@ -1,4 +1,9 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC # Extract
+
+# COMMAND ----------
+
 # MAGIC %fs ls dbfs:/databricks-datasets/nyctaxi/
 
 # COMMAND ----------
